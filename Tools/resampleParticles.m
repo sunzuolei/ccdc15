@@ -1,0 +1,16 @@
+function particles= resampleParticles(particles, Nmin)
+%
+% Resample particles if their weight variance is such that N-effective
+% is less than Nmin.
+%
+N= length(particles);
+w= zeros(1,N);
+for i=1:N, w(i)= particles(i).w; end
+ws= sum(w); 
+% w= w/ws;
+for i=1:N, particles(i).w= particles(i).w / ws; end
+[keep, Neff] = stratifiedResample(w);
+if Neff < Nmin 
+    particles= particles(keep);
+    for i=1:N, particles(i).w= 1/N; end
+end

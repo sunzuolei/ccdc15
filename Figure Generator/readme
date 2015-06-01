@@ -1,0 +1,31 @@
+Ying Li; Zuolei Sun; Yafang Xu; Bo Zhang -- Robot Navigation based on Visual Feature Perception and Monte Carlo Sampling ( The 27th Chinese Control and Decision Conference ).
+
+Redistribution and use source Code and data with or without modification must retain the above copyright notice.
+
+Experiments are carried out based on real data make by Dr.Udo the dataset is collected from the Deutsches Zentrum f¨¹r Luft-und Raumfahrt£¨DLR£©
+--- http://www.informatik.uni-bremen.de/agebv/en/DlrSpatialCognitionDataSet
+
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+
+Figure Generator File show the Figure for the experimental result of paper
+
+ -- Robot Navigation based on Visual Feature Perception and Monte Carlo Sampling.
+
+Output File -- data of experimental result.
+
+landmark.m -- plot Figure of landmark. 
+
+NminErrX.m -- plot Figure of absolute error in x for different number of effective particles.
+
+NumErrX.m -- plot Figure of absolute error in x for different number of sampling particles.
+
+pathErrX.m -- plot Figure of absolute error in x for different SLAM algorithm in Robot Navigation .
+
+slamPath.m -- plot Figure of path in Robot Navigation for different SLAM algorithm.
+
+stepParticles.m -- plot Figure of sampling particles and robot in procss at step = 1 to step = 10 .
+
+Li Ying
+
+2014.12.3
