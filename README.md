@@ -3,7 +3,7 @@
 It is the code for our CCDC15 paper, if it is useful for you, please cite our paper.
 ```
 @CONFERENCE{YingCCDC15,
-  author =       {Ying li; Zuolei Sun; Yafang Xu; Bo Zhang},
+  author =       {Ying Li; Zuolei Sun; Yafang Xu; Bo Zhang},
   title =        {Robot Navigation based on Visual Feature Perception and Monte Carlo Sampling},
   year =         {2015},
   address =      {Qing Dao, China},
@@ -34,6 +34,8 @@ It includes all of utilities' tools function.
 
 It includes the code of generating video and image sequences.
 
-[Two experimental online videos are available at:](http://dwz.cn/ccdc15 £©[and]£¨http://dwz.cn/15ccdc)
+</br>**Two experimental online videos on youku: [video 1](http://dwz.cn/ccdc15 )** **and [video 2](http://dwz.cn/15ccdc)**
 
-** For more information **, [please contact:](sunzuolei@gmail.com)
+</br>**The presentation on CCDC2015 [PPT](http://v.youku.com/v_show/id_XOTYzNjk5MzA4.html)**
+
+</br>**For more information, please contact [sunzuolei@gmail.com](http://dwz.cn/samuel)**
