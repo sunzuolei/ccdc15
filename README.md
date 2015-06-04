@@ -34,7 +34,7 @@ It includes all of utilities' tools function.
 
 It includes the code of generating video and image sequences.
 
-</br>**Two experimental online videos on youku: [video 1](http://dwz.cn/ccdc15 )** **and [video 2](http://dwz.cn/15ccdc)**
+</br>**Two experimental online videos show on youku: [video 1](http://dwz.cn/ccdc15 )** **and [video 2](http://dwz.cn/15ccdc)**
 
 </br>**The presentation on CCDC2015 [PPT](http://v.youku.com/v_show/id_XOTYzNjk5MzA4.html)**
 
