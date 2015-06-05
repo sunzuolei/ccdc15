@@ -12,7 +12,7 @@ It is the code for our CCDC15 paper, if it is useful for you, please cite our pa
 }
 ```
 
-The used dataset is made by Dr.Udo: [DLR data:](http://www.informatik.uni-bremen.de/agebv/en/DlrSpatialCognitionDataSet)
+The used dataset is made by Dr.Udo: [DLR data](http://www.informatik.uni-bremen.de/agebv/en/DlrSpatialCognitionDataSet)
 
 ## Data
 
