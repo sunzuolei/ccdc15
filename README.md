@@ -38,4 +38,4 @@ It includes the code of generating video and image sequences.
 
 </br>**The presentation on CCDC2015 [PPT](http://v.youku.com/v_show/id_XOTYzNjk5MzA4.html)**
 
-</br>**For more information, please contact [sunzuolei@gmail.com](http://dwz.cn/samuel)**
+</br>**For more information, please contact ly@mpig.com.cn, [szl@mpig.com.cn](http://mpig.com.cn)**
